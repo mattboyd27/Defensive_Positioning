@@ -1,7 +1,7 @@
 # Defensive Positioning
 Optimizing defensive positioning with MLB Statcast data.
 ## Description
-This repository contains code ( ) that uses data scraped from [baseballr](https://billpetti.github.io/baseballr/index.html)
+This repository contains code ( ) that uses data scraped from [baseballr](https://billpetti.github.io/baseballr/index.html) and baseballsavant.com
 
 <h1 align="center"><project-name></h1>
 
