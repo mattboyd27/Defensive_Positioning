@@ -21,4 +21,4 @@ Gallo's predicted BABIP goes does to .272 when I shift the fielders into the abo
 With a 4-man outfield and infield shift, like the alignment above, Gallo's predicted BABIP is .306.
 
 ## Conclusion
-Joey Gallo's tendancies the last couple years show the defensive alignement against him can make a big different in his success, even if the alignment is against the norm.
+Joey Gallo's tendancies over the last couple years show the defensive alignement against him can make a big different in his success, even if the alignment is against the norm.
