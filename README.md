@@ -6,7 +6,7 @@ This repository contains code ( ) that uses data scraped from [baseballr](https:
 The write-up for this project is in the workings and will be posted here when finished along with an accompanying R Shiny app.
 
 ## Example
-Joey Gallo is know for his extreme tendancies of hitting the ball to his pull side and in the air. I will give an example of Gallo's predicted BABIP from all his batted balls between March 29, 2018 to June 27, 2021.
+Joey Gallo is know for his extreme tendancies of hitting the ball to his pull side and in the air. I will give an example of Gallo's predicted BABIP from all his batted balls between March 29, 2018 to June 27, 2021 on different defensive alignments.
 
 ### Standard
 <img src = "Images/Standard.JPG" width = 500>
