@@ -1,7 +1,7 @@
 # Defensive Positioning
 Optimizing defensive positioning with MLB Statcast data.
 ## Description
-This repository contains code ( ) that uses data scraped from [Baseball Savant](baseballsavant.com) through [baseballr](https://billpetti.github.io/baseballr/index.html) along with defensive player coordinates provided by MLBAM that seeks to use the position of defensive players to predict the probability an observed batted ball is a hit. A gradient boosted model is used and the predicted probability of a hit is averaged by batter to find the batting average on balls in play (BABIP) for each batter with a given defenisve alignment.
+This repository contains code ('defensive_positioning.R') that uses data scraped from [Baseball Savant](baseballsavant.com) through [baseballr](https://billpetti.github.io/baseballr/index.html) along with defensive player coordinates provided by MLBAM that seeks to use the position of defensive players to predict the probability an observed batted ball is a hit. A gradient boosted model is used and the predicted probability of a hit is averaged by batter to find the batting average on balls in play (BABIP) for each batter with a given defenisve alignment.
 
 The write-up for this project is in the workings and will be posted here when finished along with an accompanying R Shiny app.
 
