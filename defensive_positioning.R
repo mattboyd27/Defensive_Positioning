@@ -234,7 +234,7 @@ data = data%>%
     TRUE ~ "generic"),
     park=as.factor(park))
 
-# Load in position player coordinates for all playes from March 28, 2018 - June 27, 2021
+# Load in position player coordinates for all plays from March 28, 2018 - June 27, 2021
 sample = c()
 for(i in 18:21){
   sample1 = read_csv(paste0("20",i,"_position_player_coordinates.csv"))
