@@ -3,7 +3,9 @@ Optimizing defensive positioning with MLB Statcast data.
 ## Description
 This repository contains code (`defensive_positioning.R`) that uses data scraped from [Baseball Savant](baseballsavant.com) through [baseballr](https://billpetti.github.io/baseballr/index.html) along with defensive player coordinates provided by MLBAM that seeks to use the position of defensive players to predict the probability an observed batted ball is a hit. A gradient boosted model is used and the predicted probability of a hit is averaged by each batter and their batted ball data to find the batting average on balls in play (BABIP) from a given defenisve alignment.
 
-The write-up for this project is in the workings and will be posted here when finished along with an accompanying R Shiny app.
+The write-up for this project is in the workings and will be posted here when finished.
+
+R Shiny app can be found [here](https://matt-boyd.shinyapps.io/defensive-positioning/).
 
 ## Example
 Joey Gallo is known for his extreme tendencies of hitting the ball to his pull side and in the air. I will give an example of Gallo's predicted BABIP from all his batted balls between March 29, 2018 to June 27, 2021 on different defensive alignments.
